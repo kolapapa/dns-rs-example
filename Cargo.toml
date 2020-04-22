@@ -1,0 +1,12 @@
+[package]
+name = "dns-rs-example"
+version = "0.1.0"
+authors = ["kolapapa <milk346512016@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+trust-dns-resolver = "0.19.4"
+tokio = { version = "0.2.18", features = ["full"] }
+anyhow = "1.0.28"
