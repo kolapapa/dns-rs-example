@@ -1,7 +1,7 @@
 [package]
 name = "dns-rs-example"
 version = "0.1.0"
-authors = ["kolapapa <milk346512016@gmail.com>"]
+authors = ["kolapapa <kolapapa@163.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
